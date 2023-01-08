@@ -1,1 +1,1 @@
-# PostgreSQL-Exercises
+#ALL SQL Solutions Done By Me
